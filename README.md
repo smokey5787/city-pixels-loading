@@ -1,5 +1,5 @@
 # city-pixels-loading
-Splashscreen for KDE  
+Splashscreen for KDE    
 Logo is removable by changing the line  
 source: "images/pixels-loading-bettersky-logo.gif"  
 to this  
