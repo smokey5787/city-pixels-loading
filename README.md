@@ -1,4 +1,7 @@
 # city-pixels-loading
 Splashscreen for KDE
-
-To remove the logo delete "-logo" from this line '''source: "images/pixels-loading-bettersky-logo.gif" ''' '''city-pixles-loading/contents/splash/Splash.qml''' 
+Logo is removable by changing the line
+source: "images/pixels-loading-bettersky-logo.gif"
+to this
+source: "images/pixels-loading-bettersky.gif"
+In the file /city-pixels-loading/contents/splash/Splash.qml
